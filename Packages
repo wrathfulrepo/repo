@@ -36,7 +36,7 @@ Architecture: iphoneos-arm
 Maintainer: WrathfulRepo <repo@hackyouriphone.org>
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
-Filename: ./debs/com.wrathfulrepo.grupi_iphoneos-arm.deb
+Filename: ./debs/com.wrathfulrepo.grupi_2.1_iphoneos-arm.deb
 Size: 190912
 MD5sum: 0199f894479d4001ebe3b8f417a68f42
 SHA1: dc8555220627931a4818cb6b0a05ad19865547f3
