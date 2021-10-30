@@ -30,3 +30,19 @@ Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 Name: Old Package
 
+Package: com.wrathfulrepo.zenith
+Version: 2.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Filename: ./debs/com.wrathfulrepo.zenith.deb
+Size: 282808
+MD5sum: db264b5904875b2edd2b009a78bd4732
+SHA1: 0eb42942c1537353bab8b82eea1b89444e9fdf95
+SHA256: 9f66ea68c0c4277abd5f7c5191a54c1ebd804627219adb62abc00429a82ad5bf
+Section: Tweaks
+Description: This is a sample new package. Firmware should be greater than 7.0
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Name: New Package
+
