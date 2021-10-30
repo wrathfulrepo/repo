@@ -37,10 +37,10 @@ Maintainer: HackYouriPhone <repo@hackyouriphone.org>
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
 Filename: ./debs/com.wrathfulrepo.grupi_iphoneos-arm.deb
-Size: 190900
-MD5sum: 2bcb353b7a1fbf77657b61989bd3fd23
-SHA1: 82c3cd876d4bb164069ae95eb1bf026ff652039f
-SHA256: 84203126d97f88214eeee5aca1645d40e163447ad117055a270269fc53c6c282
+Size: 191348
+MD5sum: 3b6dd05e988876d559b6994221e6d3a4
+SHA1: 0bd91bfc33d93fb0a12ad33e14f545f506af1977
+SHA256: 4f2203a72f2657c63df97f6e4525b0b0ebdf93d75ea78913bd05d41695220b17
 Section: HYI - Tweaks
 Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=grupi
 Description: Grouped Notifications for iOS 11 ~ iOS 14
