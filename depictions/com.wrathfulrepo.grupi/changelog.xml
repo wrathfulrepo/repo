@@ -1,0 +1,13 @@
+<changelog>
+	<changes>
+		<version>1.2.6</version>
+		<change>Second release</change>
+		<change>Fix rotation issue</change>
+		<change>Fix reatain circle</change>
+	</changes>
+	<changes>
+		<version>1.2.5</version>
+		<change>Initial Release</change>
+		<change>Attempt to fix opening icons in stacks</change>
+	</changes>
+</changelog>
