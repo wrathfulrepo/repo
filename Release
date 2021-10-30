@@ -1,8 +1,8 @@
-Origin: Wratfulrepo
-Label: Wratfulrepo
+Origin: Wrathfulrepo
+Label: Wrathful Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Wratfulrepo - FNF only
+Description: Wrathfulrepo - FNF only
