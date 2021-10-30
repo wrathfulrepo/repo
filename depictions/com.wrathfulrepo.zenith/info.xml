@@ -32,8 +32,8 @@
 	</screenshots>
 	<changelog>
 		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>Fix rotation issue</change>
+		<change>Fix reatain circle</change>
 	</changelog>
 	<links>
 		<link>
