@@ -30,6 +30,25 @@ Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 Name: Old Package
 
+Package: com.wrathfulrepo.grupi
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: HackYouriPhone <repo@hackyouriphone.org>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debs/com.wrathfulrepo.grupi_iphoneos-arm.deb
+Size: 190900
+MD5sum: 2bcb353b7a1fbf77657b61989bd3fd23
+SHA1: 82c3cd876d4bb164069ae95eb1bf026ff652039f
+SHA256: 84203126d97f88214eeee5aca1645d40e163447ad117055a270269fc53c6c282
+Section: HYI - Tweaks
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=grupi
+Description: Grouped Notifications for iOS 11 ~ iOS 14
+Author: Soongyu Kwon & Timeloop <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=grupi
+Name: Grupi
+Sileodepiction: https://depiction.hackyouriphone.org/sileoDepiction.php?filename=grupi
+
 Package: com.wrathfulrepo.zenith
 Version: 1.2.6
 Architecture: iphoneos-arm
