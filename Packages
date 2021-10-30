@@ -31,18 +31,19 @@ Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.old
 Name: Old Package
 
 Package: com.wrathfulrepo.zenith
-Version: 2.0.0-1
+Version: 1.2.6
 Architecture: iphoneos-arm
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
-Filename: ./debs/com.wrathfulrepo.zenith.deb
-Size: 282808
-MD5sum: db264b5904875b2edd2b009a78bd4732
-SHA1: 0eb42942c1537353bab8b82eea1b89444e9fdf95
-SHA256: 9f66ea68c0c4277abd5f7c5191a54c1ebd804627219adb62abc00429a82ad5bf
+Maintainer: Muirey03
+Installed-Size: 672
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
+Filename: ./debs/com.wrathfulrepo.zenith_1.2.6_iphoneos-arm.deb
+Size: 282760
+MD5sum: 4321f90058294d7ae14c02e7c5f74485
+SHA1: 5eb437d0fd192ae76ebf16928fb033dba111ae61
+SHA256: 14ebb23f5dd976d4e65735b7be1b3d71bda786404f4d30c8f10707048fd0a66d
 Section: Tweaks
-Description: This is a sample new package. Firmware should be greater than 7.0
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
-Name: Zenith BETA
+Description: Organisation Done Right
+Author: Muirey03
+Icon: file:///Library/PreferenceBundles/Zenith.bundle/Icon-Large.png
+Name: Zenith
 
